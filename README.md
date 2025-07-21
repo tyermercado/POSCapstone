@@ -15,9 +15,8 @@ The full Ezpresso system is composed of:
 
 🖥️ **Each module was presented on a separate device.** This repository focuses on the **Taza Mia POS System** module.
 
-![POS Screenshot](https://github.com/tyermercado/POSCapstone/blob/master/tm1.png)
-
 ---
+
 
 ## 💻 Tech Stack
 
@@ -58,6 +57,10 @@ Both roles log in using the **same login form**, but credentials determine the d
 
 ---
 
+## 🖼️ Screenshots
+![POS Screenshot](https://github.com/tyermercado/POSCapstone/blob/master/tm1.png)
+![POS Screenshot](https://github.com/tyermercado/POSCapstone/blob/master/tm2.png)
+![POS Screenshot](https://github.com/tyermercado/POSCapstone/blob/master/tm_login.png)
 
 
 ## 📜 License
