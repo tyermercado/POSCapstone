@@ -9,7 +9,7 @@
 The full Ezpresso system is composed of:
 
 1. 📱 **Ordering System** – Customer-facing ordering interface  
-2. 💻 **Taza Mia POS System** – Point of Sale system for cashiers and admins *(Your module)*  
+2. 💻 **Taza Mia POS System** – Point of Sale system for cashiers and admins  
 3. 🍳 **Kitchen Display System (KDS)** – Real-time display of orders for kitchen staff  
 4. 🖥️ **Queueing Display System** – Shows order numbers when ready for pickup  
 
