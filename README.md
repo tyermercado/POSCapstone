@@ -20,10 +20,11 @@
 
 ## 👥 User Roles
 
-### 🔐 Shared Login
+### 🔐 Shared Login View
 
-All users access the system through the same login form. Access is determined by credentials.
+Both roles log in using the **same login form**, but credentials determine the dashboard and features shown.
 
+---
 
 ## 🛠️ Features
 
