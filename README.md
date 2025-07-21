@@ -1,8 +1,19 @@
-# 🧾 Taza Mia POS System
+# ☕ Taza Mia POS System
 
-**Taza Mia POS System** is a desktop-based Point of Sale application developed using **VB.NET** and **MySQL**. It is designed for cafés and retail businesses to streamline sales, inventory, and reporting tasks. The system supports two roles: **Administrator** and **Cashier**, both logging in from a shared interface.
+**Taza Mia POS System** is part of the **Ezpresso: All-in-One Coffee System**, a comprehensive multi-device solution designed to streamline operations in coffee shops and cafés. This specific module is assigned to and developed for handling in-store sales and inventory management.
 
 ---
+
+## 🔗 Ezpresso System Modules
+
+The full Ezpresso system is composed of:
+
+1. 📱 **Ordering System** – Customer-facing ordering interface  
+2. 💻 **Taza Mia POS System** – Point of Sale system for cashiers and admins *(Your module)*  
+3. 🍳 **Kitchen Display System (KDS)** – Real-time display of orders for kitchen staff  
+4. 🖥️ **Queueing Display System** – Shows order numbers when ready for pickup  
+
+🖥️ **Each module was presented on a separate device.** This repository focuses on the **Taza Mia POS System** module.
 
 ![POS Screenshot](https://github.com/tyermercado/POSCapstone/blob/master/tm1.png)
 
@@ -55,10 +66,4 @@ This system is intended for internal or academic use. Contact the author for com
 
 ---
 
-## 👤 Author
 
-**Tyer Leinster Mercado**  
-📧 leinster.tyer12@gmail.com  
-🌏 Philippines
-
----
