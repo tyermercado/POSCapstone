@@ -58,9 +58,11 @@ Both roles log in using the **same login form**, but credentials determine the d
 ---
 
 ## 🖼️ Screenshots
-![POS Screenshot](https://github.com/tyermercado/POSCapstone/blob/master/tm1.png)
-![POS Screenshot](https://github.com/tyermercado/POSCapstone/blob/master/tm2.png)
 ![POS Screenshot](https://github.com/tyermercado/POSCapstone/blob/master/tm_login.png)
+
+![POS Screenshot](https://github.com/tyermercado/POSCapstone/blob/master/tm1.png)
+
+![POS Screenshot](https://github.com/tyermercado/POSCapstone/blob/master/tm2.png)
 
 
 ## 📜 License
