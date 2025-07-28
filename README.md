@@ -26,7 +26,7 @@ The **Ezpresso System** is a multi-device solution composed of the following mod
 ---
   
 
-🖥️ **Each module was presented on a separate device.** This repository focuses on the **Taza Mia POS System** module.
+🖥️ **Each module was presented on a separate device.** This repository focuses on the **POS System** module.
 
 ---
 
