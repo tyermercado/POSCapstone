@@ -18,7 +18,7 @@ The **Ezpresso System** is a multi-device solution composed of the following mod
 ### 🔄 System Workflow
 
 1. Customer places order via **Ordering System**.
-2. Order is sent to the **Taza Mia POS System**.
+2. Order is sent to the **POS System**.
 3. POS forwards the order to the **Kitchen Display System**.
 4. Once ready, staff update order status in POS.
 5. **Queueing Display System** reflects order readiness.
