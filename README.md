@@ -11,7 +11,7 @@ The **Ezpresso System** is a multi-device solution composed of the following mod
 | Module | Description |
 |--------|-------------|
 | 📱 **Ordering System** | Customer-facing ordering interface. Sends orders directly to the POS. |
-| 💻 **Taza Mia POS System** *(this module)* | Manages order processing, inventory, and payment. |
+| 💻 **POS System** *(this module)* | Manages order processing, inventory, and payment. |
 | 🍳 **Kitchen Display System (KDS)** | Displays active orders for kitchen staff, triggered by POS. |
 | 🖥️ **Queueing Display System** | Shows order status and notifies customers when orders are ready. |
 
