@@ -1,6 +1,6 @@
 # ☕ POS System
 
-**POS System** is part of the **Ezpresso: All-in-One Coffee System**, a comprehensive multi-device solution designed to streamline operations in coffee shops and cafés. This specific module is assigned to and developed for handling in-store sales and inventory management.
+**POS System** is part of the **Ezpresso: All-in-One Coffee System**, a comprehensive integrated multi-device solution designed to streamline operations in coffee shops and cafés. This specific module is assigned to and developed for handling in-store sales and inventory management.
 
 ---
 
