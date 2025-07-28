@@ -58,14 +58,14 @@ Both roles log in using the **same login form**, but credentials determine the d
 - ⭐ Best Selling Products
 - 🏷️ Discount Management
 - 📦 Stock Inventory Control
-- ❌ Cancel Orders
+- ❌ Canceled Orders
 - 🔐 Secure Logout
 
 ### 💼 Cashier Interface
 
 - 💳 Process Sales Transactions
 - 🔍 Product Lookup
-- ❌ Cancel Ongoing Orde
+- ❌ Cancel Ongoing Order
 - 🔐 Restricted Access to Admin Controls
 
 ---
